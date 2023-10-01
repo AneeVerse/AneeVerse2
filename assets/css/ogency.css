@@ -3877,10 +3877,11 @@ h6 {
   }
 }
 
+/* vide background Hero page video */
 .main-slider__two__content__title .video-popup img {
   width: 100%;
   height: 100%;
-  mix-blend-mode: luminosity;
+  /* mix-blend-mode: luminosity; */
   object-fit: cover;
 }
 
