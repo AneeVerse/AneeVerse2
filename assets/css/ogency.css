@@ -6184,7 +6184,7 @@ h6 {
   display: block;
   -webkit-text-fill-color: transparent;
   -webkit-text-stroke-width: 1px;
-  -webkit-text-stroke-color: var(--ogency-black3);
+  -webkit-text-stroke-color: #d5d5d5e3;
   transition: all 400ms ease;
   margin-bottom: 16px;
 }
